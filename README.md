@@ -6,4 +6,4 @@ In this repository I have provided my Python solutions of some LeetCode problems
 * All Solutions here are in Python 3.
 
 
-If you like this, please leave me a star ★
+PS: If you like this, please leave me a star ★
